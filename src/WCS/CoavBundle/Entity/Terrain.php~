@@ -279,18 +279,5 @@ class Terrain
     {
         return $this->country;
     }
-
-    /**
-     * Set address
-     *
-     * @param string $address
-     *
-     * @return Terrain
-     */
-    public function setAddress($address)
-    {
-        $this->address = $address;
-
-        return $this;
-    }
 }
+

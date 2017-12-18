@@ -342,3 +342,4 @@ class Flight
         return $this->wasDone;
     }
 }
+
